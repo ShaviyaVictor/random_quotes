@@ -4,6 +4,8 @@
 /dist
 /tmp
 /out-tsc
+# forgot to add this before deploying and thus getting the default error quote I put
+/../environments
 # Only exists if Bazel was run
 /bazel-out
 
