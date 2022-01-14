@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  APIurl: 'http://quotes.stormconsultancy.co.uk/random.json',
 };
